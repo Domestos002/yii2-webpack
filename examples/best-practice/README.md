@@ -1,1 +1,0 @@
-Example of using webpack in a separate directory.
